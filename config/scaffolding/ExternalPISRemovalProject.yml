@@ -1,9 +1,9 @@
+version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- gitBranch: release/1.0.0
+- name: ExternalPISRemovalProject
   gitServerName: pooja
   gitUrl: https://github.com/Pooja-Anand-IBM-2
   gitUsername: Pooja-Anand-IBM-2
-  name: ExternalPISRemovalProject
-version: 1.0.0
+  gitBranch: release/1.0.0
